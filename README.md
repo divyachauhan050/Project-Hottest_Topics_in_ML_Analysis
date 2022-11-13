@@ -6,3 +6,6 @@ In this project, I aanalyzed the evolution of some of the most popular topics in
 ## About the Datasets
 
 I have used eight different datasets (courtesy of Datacamp) for the analysis. 
+
+## Key Findings
+These are some of the key findings for this project:
